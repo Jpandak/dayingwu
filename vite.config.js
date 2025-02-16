@@ -4,6 +4,7 @@ import path from 'path'
 
 export default defineConfig({
     plugins: [vue()],
+    base: '/dayingwu/',
     resolve: {
         alias: {
             '@': path.resolve(__dirname, './src'),
@@ -15,6 +16,5 @@ export default defineConfig({
                 additionalData: `@import "@/assets/styles/_variables.scss";`
             }
         }
-    },
-    base: '/dayingwu/'
+    }
 })
