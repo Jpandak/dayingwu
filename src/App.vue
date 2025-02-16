@@ -20,7 +20,7 @@
 
     <footer class="footer">
       <div class="container">
-        <p>&copy; 2024 jk的鹦鹉世界. 版权所有</p>
+        <p>&copy; 2025 jk的鹦鹉世界. 版权所有</p>
       </div>
     </footer>
   </div>
