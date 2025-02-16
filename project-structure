@@ -1,0 +1,11 @@
+parrot-website/
+├── src/
+│   ├── assets/
+│   │   └── styles/
+│   │       ├── _variables.scss
+│   │       └── main.scss
+│   ├── components/
+│   ├── views/
+│   ├── stores/
+│   ├── router/
+│   └── App.vue 
