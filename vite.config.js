@@ -15,5 +15,6 @@ export default defineConfig({
                 additionalData: `@import "@/assets/styles/_variables.scss";`
             }
         }
-    }
+    },
+    base: '/dayingwu/'
 })
